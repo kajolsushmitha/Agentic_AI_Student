@@ -1,0 +1,15 @@
+﻿
+# python artifacts
+__pycache__/
+*.pyc
+
+# editor / OS
+.vscode/
+Thumbs.db
+.DS_Store
+
+# secrets (DO NOT PUSH)
+.env
+credentials.json
+token.json
+sahayak-*.json
