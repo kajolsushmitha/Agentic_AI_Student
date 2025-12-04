@@ -18,3 +18,27 @@ Storage: Vector Indexing
 Tools: VS Code, Git, GitHub  
 
 
+📂 Project Structure
+Agentic_AI_Student/
+│
+├── agent_os.py
+├── sample.py
+├── send_template.py
+├── test.py
+├── sam.py
+│
+├── data/
+│ ├── OS_Syllabus.pdf
+│ ├── OS_Unit_I_Overview.pptx
+│ ├── OS_Unit_II_Process_Management.pptx
+│ └── ...
+│
+├── vector_index/
+│ └── os_docs/
+│ ├── index.faiss
+│ ├── index.pkl
+│
+├── README.md
+└── .gitignore
+
+
